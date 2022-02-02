@@ -146,22 +146,33 @@
             text-shadow: 5px 5px 5px gray;
             padding: 10px;
             margin: 10px;
+            
         }
 
         .repa1{
             font-size: 2em;
             border: solid 1px black;
             padding: 10px;
+            box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
+-webkit-box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
+-moz-box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
         }
         .poto{
             height: 6.7em;
+            box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
+-webkit-box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
+-moz-box-shadow: 11px 11px 11px -3px rgba(0,0,0,0.56);
         }
 
         .imleyend{
             font-size: 2em;
             border: solid 1px black;
+            margin: 20px;
             padding: 10px;
             background-color: rgba(152, 196, 209, 0.671);
+            box-shadow: 14px 20px 14px -6px rgba(0,0,0,0.53);
+-webkit-box-shadow: 14px 20px 14px -6px rgba(0,0,0,0.53);
+-moz-box-shadow: 14px 20px 14px -6px rgba(0,0,0,0.53);
         }
         .btnrepa{
             width: 90%;
